@@ -1,0 +1,7 @@
+.TableContainer {
+  width: 100%;
+  overflow-x: auto;
+  color: rgba(0, 0, 0, 0.87);
+  border-radius: 4px;
+  background-color: #fff;
+}
